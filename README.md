@@ -8,6 +8,10 @@ A full-stack application designed to allow users to **create and save custom seg
 
 - **Frontend:** **React**, **Vite**, **Axios** 🌐
 - **Backend:** **Node.js**, **Express** ⚙️
+- 
+<img width="885" height="819" alt="image" src="https://github.com/user-attachments/assets/a5dfddf0-68f6-47b4-b9f8-b1837e699991" />
+<img width="1779" height="591" alt="image" src="https://github.com/user-attachments/assets/cc7fb221-5741-4a3c-a4b6-c0187cb19caa" />
+
 
 ---
 
@@ -97,7 +101,5 @@ This is the JSON structure sent to the backend endpoint: `POST /api/save-segment
   ]
 }
 
-<img width="885" height="819" alt="image" src="https://github.com/user-attachments/assets/a5dfddf0-68f6-47b4-b9f8-b1837e699991" />
-<img width="1779" height="591" alt="image" src="https://github.com/user-attachments/assets/cc7fb221-5741-4a3c-a4b6-c0187cb19caa" />
 
 
